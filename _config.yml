@@ -47,3 +47,4 @@ exclude:
 - UNLICENSE
 - README.md
 - CNAME
+- vendor
