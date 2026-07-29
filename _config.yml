@@ -44,6 +44,6 @@ exclude:
 - Gemfile.lock
 - package.json
 - package-lock.json
-- LICENSE
+- UNLICENSE
 - README.md
 - CNAME
