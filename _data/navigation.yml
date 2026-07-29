@@ -1,7 +1,7 @@
 mainmenu:
   home:
       url: "https://friendsofcoldenclough.org.uk/"
-      title: "Friends of Colden CLough"
+      title: "Friends of Colden Clough"
       logo: "https://friendsofcoldenclough.org.uk/assets/logo/fofcc.png"
   items:
     - title: "Events"
