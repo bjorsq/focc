@@ -5,6 +5,8 @@ permalink: /history/
 section: history
 ---
 
+<script>window.location.href='/projects/';</script>
+
 The Colden Valley, one of the tributaries of the River Calder, has two natural characteristics that made it ideal for water powered mills: a large catchment area, providing a very reliable water supply, and a steep gradient. By the early 19th century there were nine water powered mills working along the course of Colden Water.
 
 The history of the Colden Valley mills shows that steam power did not replace water power at a stroke, but the two sources of power continued working together – water for most of the year when it was freely available and steam for the short time, usually in the summer, when it was not. Even after the Second World War at least one water powered textile mill went back into production for a short while. This was Lumb Mill, Wainstalls, which was finally closed in 1953.
