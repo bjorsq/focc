@@ -19,7 +19,7 @@
 #                        __/ |                  
 #                       |___/                   
 #
-remote_theme: friendsofcoldenclough/jekyll-theme-focc
+remote_theme: friendsofcoldenclough/jekyll-theme-focc@develop
 # Title of the website
 title: Friends of Colden Clough
 # The description is used on homepage and in the footer to quickly describe the website.
