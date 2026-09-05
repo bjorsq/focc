@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "9th September 2026 - Habitat Restoration"
+title:  "6th September 2026 - Habitat Restoration"
 featuredimage: "moss-walk13.jpg"
 section: events
 ---
